@@ -38,17 +38,17 @@ LOCAL_REQUIRED_MODULES := \
 	FontSonySketchSourceOverlay \
 	FontSurferSourceOverlay \
 	IconPackCircularAndroidOverlay \
-	IconPackCircularLauncherOverlay \
+	IconPackCircularPixelLauncherOverlay \
 	IconPackCircularSettingsOverlay \
 	IconPackCircularSystemUIOverlay \
 	IconPackCircularThemePickerOverlay \
 	IconPackFilledAndroidOverlay \
-	IconPackFilledLauncherOverlay \
+	IconPackFilledPixelLauncherOverlay \
 	IconPackFilledSettingsOverlay \
 	IconPackFilledSystemUIOverlay \
 	IconPackFilledThemePickerOverlay \
 	IconPackRoundedAndroidOverlay \
-	IconPackRoundedLauncherOverlay \
+	IconPackRoundedPixelLauncherOverlay \
 	IconPackRoundedSettingsOverlay \
 	IconPackRoundedSystemUIOverlay \
 	IconPackRoundedThemePickerUIOverlay \
