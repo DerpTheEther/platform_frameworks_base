@@ -83,8 +83,8 @@ public class ThemedBatteryDrawable extends Drawable {
     private final Paint textPaint;
     private final Paint errorPaint;
 
-    private final float mWidthDp = 12f;
-    private final float mHeightDp = 20f;
+    private final float mWidthDp = 14f;
+    private final float mHeightDp = 22f;
 
     private int mMeterStyle;
     private int level;
@@ -119,7 +119,7 @@ public class ThemedBatteryDrawable extends Drawable {
         }
         levels.recycle();
         colors.recycle();
-        
+
         setCriticalLevel(res.getInteger(
                 com.android.internal.R.integer.config_criticalBatteryWarningLevel));
 
